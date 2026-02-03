@@ -21,7 +21,7 @@
   },
   "main": "./lib/main.js",
   "devDependencies": {
-    "aberlaas": "2.19.0"
+    "aberlaas": "2.21.1"
   },
   "scripts": {
     "ci": "./scripts/ci",
